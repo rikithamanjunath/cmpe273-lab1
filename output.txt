@@ -1,0 +1,32 @@
+Synchronous Calls 
+
+Starting Http Call 1
+Http Call 1 : Mon, 03 Sep 2018 01:17:20 GMT
+Ending Http Call 1
+
+Starting Http Call 2
+Http Call 2 : Mon, 03 Sep 2018 01:17:22 GMT
+Ending Http Call 2
+
+Starting Http Call 3
+Http Call 3 : Mon, 03 Sep 2018 01:17:23 GMT
+Ending Http Call 3
+
+
+ASynchronous Calls 
+
+Starting Http Call 1
+Starting Http Call 2
+Starting Http Call 3
+Http Call 1 Date header : Mon, 03 Sep 2018 01:21:53 GMT
+Ending Http Call 1
+Http Call 2 Date header : Mon, 03 Sep 2018 01:21:53 GMT
+Ending Http Call 2
+Http Call 3 Date header : Mon, 03 Sep 2018 01:21:54 GMT
+Ending Http Call 3
+
+Another way of implementing Asynchronous calls
+ASynchronous calls
+Http call  2 	Mon, 03 Sep 2018 04:39:54 GMT
+Http call  1 	Mon, 03 Sep 2018 04:39:54 GMT
+Http call  3 	Mon, 03 Sep 2018 04:39:54 GMT
